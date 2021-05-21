@@ -1,0 +1,3 @@
+include ':algodemo'
+include ':app'
+rootProject.name = "AlgoDemo"
